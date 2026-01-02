@@ -21,6 +21,7 @@ The dashboard focuses on the following primary KPIs:
 - **Item Type Distribution**: Shows sales distribution across various product categories
 - **Outlet Size and Location Analysis**: Provides insights on sales performance by outlet size and location tier
 - **Outlet Type Comparison**: Compares different outlet types based on sales, number of items, average sales, ratings, and item visibility
+- 
 
 ## Insights and Conclusions
 
@@ -29,5 +30,8 @@ The dashboard focuses on the following primary KPIs:
 3. Fruits, vegetables, and snack foods are the top-selling categories
 4. Medium-sized outlets in Tier 3 locations show the highest profitability
 5. Supermarkets generate higher sales volumes, while grocery stores have better item visibility
+
+   <img width="1311" height="748" alt="image" src="https://github.com/user-attachments/assets/656f1869-ed35-427a-a102-c481cdb514c8" />
+
 
 
