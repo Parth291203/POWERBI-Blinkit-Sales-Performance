@@ -1,2 +1,3 @@
 # POWERBI-Blinkit-Sales-Performance
-nm,,l;poijhbn
+Power BI sales performance dashboard analyzing revenue, orders, categories, and city-wise trends for Blinkit.
+
